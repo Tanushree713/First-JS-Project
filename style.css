@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 80vh;
+}
+#button{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 15px 20px;
+    border-radius: 20px;
+    background-color: #808080;
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+}
